@@ -5,4 +5,6 @@ class Constants {
   static const double defaultDuration = 50.0;
   static const double defaultMinHumidity = 50.0;
   static const double defaultMaxHumidity = 50.0;
+  static const double minFrequency = 50.0;
+  static const double maxFrequency = 50.0;
 }
